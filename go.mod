@@ -12,14 +12,14 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0
 	github.com/moby/sys/mountinfo v0.6.2
 	github.com/mrunalp/fileutils v0.5.0
-	github.com/opencontainers/runtime-spec v1.0.3-0.20220909204839-494a5a6aca78
+	github.com/opencontainers/runtime-spec v1.0.2
 	github.com/opencontainers/selinux v1.10.2
 	github.com/seccomp/libseccomp-golang v0.10.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
-	github.com/urfave/cli v1.22.9
+	github.com/urfave/cli v1.22.10
 	github.com/vishvananda/netlink v1.1.0
-	golang.org/x/net v0.1.0
+	golang.org/x/net v0.2.0
 	golang.org/x/sys v0.2.0
 	google.golang.org/protobuf v1.28.1
 )
